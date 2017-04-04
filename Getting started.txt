@@ -9,5 +9,3 @@ Develop/ api reference (https://docs.angularjs.org/api)
 This is a great intro into the world of Git:
 (https://www.youtube.com/watch?v=Y9XZQO1n_7c)
 
-Git test of My Branch.
-
