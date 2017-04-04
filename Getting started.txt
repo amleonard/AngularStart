@@ -6,6 +6,6 @@ https://angularjs.org/
 
 Develop/ api reference (https://docs.angularjs.org/api)
 
-While I'm at it this is a great intro into the world of Git:
+This is a great intro into the world of Git:
 (https://www.youtube.com/watch?v=Y9XZQO1n_7c)
 
